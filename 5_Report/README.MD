@@ -22,8 +22,7 @@ In this project, there were two innovations reviewed as the literature review. T
 * Individual rain sensors are fairly inexpensive.
 
 # Disadvantages:
-* When water falls squarely on the rain sensor, the mechanism act![table](https://user-images.githubusercontent.com/101283423/168209245-f24e6888-5695-42bf-9f79-8781f5f770bd.jpeg)
-ivates.
+* When water falls squarely on the rain sensor, the mechanism activates.
 * The entire system cost rises when more components, including a rain sensor, are required.
 * Rain sensors must make a decision within a few minutes to avoid erroneous detection of rain.
 
