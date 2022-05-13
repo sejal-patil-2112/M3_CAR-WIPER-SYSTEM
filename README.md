@@ -7,3 +7,5 @@
  ![Quality Grade](https://api.codiga.io/project/32839/status/svg)
 
 [![Build-Linux](https://github.com/sejal-patil-2112/M3_car_wiper_system_using_stm32/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/sejal-patil-2112/M3_car_wiper_system_using_stm32/actions/workflows/Build%20on%20Linux.yml)
+
+[![Build-Linux](https://github.com/sejal-patil-2112/M3_car_wiper_system_using_stm32/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/sejal-patil-2112/M3_car_wiper_system_using_stm32/actions/workflows/Build%20on%20Linux.yml)
